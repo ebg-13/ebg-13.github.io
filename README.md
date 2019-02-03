@@ -11,7 +11,7 @@ Pentru a folosi convertorul, trebuie să accesezi [această pagină](https://ebg
 Să folosești ROT13 pentru a ascunde ceva este aproape ca și cum ai scrie un text invers, adică ɐșɐ. Nu este greu să descifrezi un text scris în ROT13, și, oricine poate folosi un convertor online pentru a afla, și textele ROT13 se pot descifra chiar în minte, fără niciun convertor.
 
 ### Ebg-13
-**[Ebg-13](ebg-13.github.io)** este forma textului „Rot-13” scrisă chiar în ROT13, și, în același timp, numele convertorului. Convertirea textului introdus se face prin javascript, cu următorul cod simplu:
+**[Ebg-13](https://ebg-13.github.io)** este forma textului „Rot-13” scrisă chiar în ROT13, și, în același timp, numele convertorului. Convertirea textului introdus se face prin javascript, cu următorul cod simplu:
 
 ```javascript function rot13(c) {
 	let offset = 0;
