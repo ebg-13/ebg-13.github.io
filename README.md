@@ -5,7 +5,7 @@ ROT13 ("rotație de 13 poziții", câteodată scris ca și ROT-13) este o metod�
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/320px-ROT13_table_with_example.svg.png)
 
 ## Cum să folosești convertorul
-Pentru a folosi convertorul, trebuie să accesezi [această pagină](ebg-13.github.io). Poți introduce în caseta de text atât un text direct, scris în orice limbă, cât și un text în ROT13. Rezultatul va apărea pe pagina respectivă.
+Pentru a folosi convertorul, trebuie să accesezi [această pagină](https://ebg-13.github.io). Poți introduce în caseta de text atât un text direct, scris în orice limbă, cât și un text în ROT13. Rezultatul va apărea pe pagina respectivă.
 
 ### ! ROT13 nu criptează textul
 Să folosești ROT13 pentru a ascunde ceva este aproape ca și cum ai scrie un text invers, adică ɐșɐ. Nu este greu să descifrezi un text scris în ROT13, și, oricine poate folosi un convertor online pentru a afla, și textele ROT13 se pot descifra chiar în minte, fără niciun convertor.
