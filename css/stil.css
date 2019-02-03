@@ -1,0 +1,73 @@
+* { padding: 0; margin: 0; box-sizing: border-box; }
+input { font-size: 16px; }
+
+body {
+  font-family: 'Avenir', 'Open Sans', sans-serif;
+  background-color: #35D47C;
+  text-align: center;
+  color: white;
+  margin: auto;
+  padding: 100px
+}
+
+h1 {
+  padding: 20px;
+}
+
+.box {
+  display: inline-block;
+  width: 45%;
+  max-width: 288px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .1);
+  padding: 30px;
+  margin: 10px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+  &:hover {
+    background-color: rgba(0, 0, 0, .18);
+  }
+}
+
+h4 {
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 10px;
+}
+
+#paste {
+  display: block;
+  width: 97%;
+  border: none;
+  padding: 20px;
+  font-size: 16px;
+  border-radius: 3px;
+  margin: 0 auto;
+  max-width: 600px;
+  transition: all .3s ease 0s;
+  &:focus {
+    outline: none;
+    border: none;
+    box-shadow: 0 8px 30px -4px rgba(0, 0, 0, .3);
+  }
+}
+textarea {
+  display: inline-block;
+  width: 45%;
+  max-width: 288px;
+  text-align: center;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 20px;
+  resize: none;
+  &:hover {
+  box-shadow: 2px 2px 2px;
+  }
+}
